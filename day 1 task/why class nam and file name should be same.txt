@@ -1,0 +1,1 @@
+In Java, the public class name must be the same as the file name so that the compiler can easily locate and load the class. If the names do not match, a compile-time error occurs. This rule ensures proper organization and smooth execution of Java programs.

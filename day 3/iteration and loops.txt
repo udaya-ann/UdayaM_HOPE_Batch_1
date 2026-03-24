@@ -1,0 +1,2 @@
+Iteration is the process of repeating a set of instructions multiple times.
+A loop is a control structure in programming that is used to perform iteration.

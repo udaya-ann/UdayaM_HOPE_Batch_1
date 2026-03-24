@@ -1,0 +1,20 @@
+USAGE OF COMMA INSIDE PRINT STATEMENT
+
+
+1.As format specifier (multiple values)
+
+Comma is used to separate multiple arguments in printf
+
+System.out.printf("Name: %s Age: %d", "John", 25);
+
+Here , separates "John" and 25
+
+2. As thousands separator
+
+Comma is used inside format specifier to format numbers
+
+System.out.printf("%,d", 1000000);
+
+Output:
+
+1,000,000

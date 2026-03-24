@@ -1,0 +1,23 @@
+Arithmetic Operators
+Used for calculations
++ (add), - (subtract), * (multiply), / (divide), % (modulus)
+
+Relational Operators
+Used to compare values
+==, !=, >, <, >=, <=
+
+Logical Operators
+Used for conditions (true/false)
+&& (AND), || (OR), ! (NOT)
+
+Assignment Operators
+Used to assign values
+=, +=, -=, *=, /=, %=
+
+unary operators
+Used to increase or decrease value
+++, --
+
+Bitwise Operators
+Work on bits
+&, |, ^, ~, <<, >>

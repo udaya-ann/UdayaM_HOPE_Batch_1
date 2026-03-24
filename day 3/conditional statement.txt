@@ -1,0 +1,54 @@
+Conditional Statements in Java
+
+Conditional statements are used to make decisions in a program based on conditions (true/false).
+
+Types:
+
+if statement
+Executes code if condition is true
+
+if (x > 10) {
+    System.out.println("Greater");
+}
+
+if-else statement
+Executes one block if true, another if false
+
+if (x > 10) {
+    System.out.println("Greater");
+} else {
+    System.out.println("Smaller");
+}
+
+else-if ladder
+Checks multiple conditions
+
+if (x > 10) {
+    System.out.println("Greater");
+} else if (x == 10) {
+    System.out.println("Equal");
+} else {
+    System.out.println("Smaller");
+}
+
+switch statement
+Used for multiple fixed choices
+
+switch (day) {
+    case 1: System.out.println("Monday"); break;
+    default: System.out.println("Invalid");
+}
+Nested if in Java
+
+Nested if means an if statement inside another if statement.
+It is used when we need to check multiple conditions step by step.
+
+Example:
+int x = 15;
+int y = 20;
+
+if (x > 10) {
+    if (y > 10) {
+        System.out.println("Both are greater than 10");
+    }
+}
