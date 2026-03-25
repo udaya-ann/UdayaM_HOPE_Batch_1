@@ -1,0 +1,71 @@
+1. append()
+
+Add text at end
+
+sb.append("Hello");
+
+
+2. insert()
+
+Insert at specific position
+
+sb.insert(1, "Hi");
+
+
+3. replace()
+
+Replace part of string
+
+sb.replace(0, 2, "Hi");
+
+
+4. delete()
+
+Delete characters
+
+sb.delete(0, 2);
+
+
+5. reverse()
+
+Reverse string
+
+sb.reverse();
+
+
+6. length()
+
+Get length
+
+sb.length();
+
+
+7. capacity()
+
+Check storage capacity
+
+sb.capacity();
+
+
+8. charAt()
+
+Get character
+
+sb.charAt(0);
+
+
+9. setCharAt()
+
+Change character
+
+sb.setCharAt(0, 'A');
+
+
+10. toString()
+
+Convert to String
+
+sb.toString();
+
+StringBuilder = fast (not thread-safe)
+StringBuffer = slow (thread-safe)

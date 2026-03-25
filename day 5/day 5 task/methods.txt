@@ -1,0 +1,28 @@
+Types of Methods
+
+
+1. Without arguments & without return value
+void show() {
+    System.out.println("Hello");
+}
+No input, no output
+
+
+2. With arguments & without return value
+void add(int a, int b) {
+    System.out.println(a + b);
+}
+Takes input, but does not return
+
+
+3. Without arguments & with return value
+int getNumber() {
+    return 10;
+}
+No input, but returns value
+
+
+4. With arguments & with return value
+int add(int a, int b) {
+    return a + b;
+}
