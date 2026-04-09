@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0049-group-anagrams) |
 | [0151-reverse-words-in-a-string](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0151-reverse-words-in-a-string) |
 | [0171-excel-sheet-column-number](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0171-excel-sheet-column-number) |
+| [0387-first-unique-character-in-a-string](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0387-first-unique-character-in-a-string) |
 | [0443-string-compression](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0443-string-compression) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1108-defanging-an-ip-address](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/1108-defanging-an-ip-address) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0387-first-unique-character-in-a-string) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/1221-split-a-string-in-balanced-strings) |
 ## Array
 |  |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0219-contains-duplicate-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0349-intersection-of-two-arrays) |
+| [0387-first-unique-character-in-a-string](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0387-first-unique-character-in-a-string) |
 ## Sorting
 |  |
 | ------- |
@@ -88,4 +91,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0238-product-of-array-except-self) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
