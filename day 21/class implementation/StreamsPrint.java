@@ -1,4 +1,5 @@
 import java.util.*;
+import java.util.stream.Collectors;
 
 public class StreamsPrint{
     public static void main(String[] args) {
@@ -20,10 +21,25 @@ public class StreamsPrint{
         //     .map(i->i*i)
         //     .reduce(0,Integer::sum));
 
-        int sum=list.stream()
-            .filter(i->i%2!=0)
-            .map(i->i*i)
-            .reduce(0,Integer::sum);
-        System.out.println(sum);
+        // int sum=list.stream()
+        //     .filter(i->i%2!=0)
+        //     .map(i->i*i)
+        //     .reduce(0,Integer::sum);
+        // System.out.println(sum);
+
+        // int sum=list.stream()
+        //     .filter(i->i%2!=0)
+        //     .map(i->i*i)
+        //     .reduce(0,(a,b)->a+b);
+        // System.out.println(sum);
+
+        // list=list.stream()
+        //     .filter(i->i%2!=0)
+        //     .map(i->i*i)
+        //     .collect(Collectors.toList());
+        // System.out.println(list);
+
+        
+
     }
 }
