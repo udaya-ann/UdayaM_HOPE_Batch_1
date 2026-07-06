@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0009-palindrome-number) |
+| [0062-unique-paths](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0070-climbing-stairs) |
 | [0171-excel-sheet-column-number](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0171-excel-sheet-column-number) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0070-climbing-stairs) |
 ## Prefix Sum
 |  |
@@ -134,4 +136,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/2452-words-within-two-edits-of-dictionary) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
