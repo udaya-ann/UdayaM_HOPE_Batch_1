@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0125-valid-palindrome](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0349-intersection-of-two-arrays) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0049-group-anagrams) |
+| [0125-valid-palindrome](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0151-reverse-words-in-a-string) |
 | [0171-excel-sheet-column-number](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0171-excel-sheet-column-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0387-first-unique-character-in-a-string) |
