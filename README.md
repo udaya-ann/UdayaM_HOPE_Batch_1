@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0125-valid-palindrome](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0151-reverse-words-in-a-string) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0349-intersection-of-two-arrays) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0238-product-of-array-except-self) |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/1855-maximum-distance-between-a-pair-of-values) |
