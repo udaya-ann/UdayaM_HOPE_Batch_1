@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0006-zigzag-conversion](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0006-zigzag-conversion) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0038-count-and-say) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0219-contains-duplicate-ii) |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0219-contains-duplicate-ii) |
 ## Divide and Conquer
 |  |
