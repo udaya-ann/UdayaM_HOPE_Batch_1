@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0238-product-of-array-except-self) |
+| [0240-search-a-2d-matrix-ii](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0240-search-a-2d-matrix-ii](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0240-search-a-2d-matrix-ii) |
 | [0278-first-bad-version](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0053-maximum-subarray) |
+| [0240-search-a-2d-matrix-ii](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0240-search-a-2d-matrix-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -245,4 +248,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0074-search-a-2d-matrix) |
+| [0240-search-a-2d-matrix-ii](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0240-search-a-2d-matrix-ii) |
 <!---LeetCode Topics End-->
