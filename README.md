@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0540-single-element-in-a-sorted-array](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0540-single-element-in-a-sorted-array) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0746-min-cost-climbing-stairs](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0746-min-cost-climbing-stairs) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0374-guess-number-higher-or-lower](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0374-guess-number-higher-or-lower) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0540-single-element-in-a-sorted-array](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0540-single-element-in-a-sorted-array) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1552-magnetic-force-between-two-balls](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/1552-magnetic-force-between-two-balls) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/2491-divide-players-into-teams-of-equal-skill) |
@@ -251,4 +254,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0240-search-a-2d-matrix-ii) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 <!---LeetCode Topics End-->
