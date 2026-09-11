@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0719-find-k-th-smallest-pair-distance](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0786-k-th-smallest-prime-fraction) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [1898-maximum-number-of-removable-characters](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/1898-maximum-number-of-removable-characters) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/2491-divide-players-into-teams-of-equal-skill) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0657-robot-return-to-origin) |
 | [1108-defanging-an-ip-address](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/1108-defanging-an-ip-address) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/1221-split-a-string-in-balanced-strings) |
+| [1898-maximum-number-of-removable-characters](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/1898-maximum-number-of-removable-characters) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/2452-words-within-two-edits-of-dictionary) |
 ## String Matching
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/1870-minimum-speed-to-arrive-on-time) |
+| [1898-maximum-number-of-removable-characters](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/1898-maximum-number-of-removable-characters) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/2410-maximum-matching-of-players-with-trainers) |
@@ -148,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/1870-minimum-speed-to-arrive-on-time) |
+| [1898-maximum-number-of-removable-characters](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/1898-maximum-number-of-removable-characters) |
 ## Math
 |  |
 | ------- |
