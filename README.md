@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1095-find-in-mountain-array](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/1095-find-in-mountain-array) |
+| [1122-relative-sort-array](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/1122-relative-sort-array) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1552-magnetic-force-between-two-balls](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/1552-magnetic-force-between-two-balls) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0387-first-unique-character-in-a-string) |
+| [1122-relative-sort-array](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/1122-relative-sort-array) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 ## Sorting
 |  |
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0786-k-th-smallest-prime-fraction) |
+| [1122-relative-sort-array](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/1122-relative-sort-array) |
 | [1552-magnetic-force-between-two-balls](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/1552-magnetic-force-between-two-balls) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/2491-divide-players-into-teams-of-equal-skill) |
@@ -274,4 +277,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0786-k-th-smallest-prime-fraction) |
+## Counting Sort
+|  |
+| ------- |
+| [1122-relative-sort-array](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/1122-relative-sort-array) |
+## Quicksort
+|  |
+| ------- |
+| [1122-relative-sort-array](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/1122-relative-sort-array) |
+## Bubble Sort
+|  |
+| ------- |
+| [1122-relative-sort-array](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/1122-relative-sort-array) |
 <!---LeetCode Topics End-->
