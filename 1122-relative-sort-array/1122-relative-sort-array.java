@@ -4,18 +4,17 @@ class Solution {
         for(int num:arr1){
             count[num]++;
         }
-
         int[] ans=new int[arr1.length];
-        int ind=0;
+        int index=0;
         for(int num:arr2){
             while(count[num]>0){
-                ans[ind++]=num;
+                ans[index++]=num;
                 count[num]--;
             }
         }
-        for(int num=0;num<=1000;num++){
+        for(int num=0;num<1001;num++){
             while(count[num]>0){
-                ans[ind++]=num;
+                ans[index++]=num;
                 count[num]--;
             }
         }
