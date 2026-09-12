@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0746-min-cost-climbing-stairs) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0875-koko-eating-bananas](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1051-height-checker](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/1051-height-checker) |
 | [1095-find-in-mountain-array](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/1095-find-in-mountain-array) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0875-koko-eating-bananas](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1095-find-in-mountain-array](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/1095-find-in-mountain-array) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
