@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1221-split-a-string-in-balanced-strings](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1898-maximum-number-of-removable-characters](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/1898-maximum-number-of-removable-characters) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2418-sort-the-people](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/2418-sort-the-people) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/2452-words-within-two-edits-of-dictionary) |
 ## String Matching
 |  |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2078-two-furthest-houses-with-different-colors](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [2418-sort-the-people](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/2418-sort-the-people) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 ## Binary Search
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0387-first-unique-character-in-a-string) |
 | [1122-relative-sort-array](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/1122-relative-sort-array) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/1636-sort-array-by-increasing-frequency) |
+| [2418-sort-the-people](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/2418-sort-the-people) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 ## Sorting
 |  |
@@ -202,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1552-magnetic-force-between-two-balls](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/1552-magnetic-force-between-two-balls) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [2418-sort-the-people](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/2418-sort-the-people) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 ## Sliding Window
 |  |
