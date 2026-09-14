@@ -217,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0053-maximum-subarray) |
 | [0240-search-a-2d-matrix-ii](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0240-search-a-2d-matrix-ii) |
 ## Dynamic Programming
@@ -286,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0023-merge-k-sorted-lists) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0786-k-th-smallest-prime-fraction) |
 ## Counting Sort
@@ -302,4 +304,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1051-height-checker](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/1122-relative-sort-array) |
+## Linked List
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0023-merge-k-sorted-lists) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0023-merge-k-sorted-lists) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
