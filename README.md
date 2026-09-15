@@ -228,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0148-sort-list) |
+| [0191-number-of-1-bits](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0191-number-of-1-bits) |
 | [0240-search-a-2d-matrix-ii](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0240-search-a-2d-matrix-ii) |
 ## Dynamic Programming
 |  |
@@ -327,4 +328,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0023-merge-k-sorted-lists) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
