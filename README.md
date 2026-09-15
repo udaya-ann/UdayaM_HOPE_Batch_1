@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2418-sort-the-people](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/2418-sort-the-people) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/2491-divide-players-into-teams-of-equal-skill) |
+| [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 ## Binary Search
 |  |
 | ------- |
@@ -334,4 +335,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0191-number-of-1-bits](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0191-number-of-1-bits) |
 | [0338-counting-bits](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0338-counting-bits) |
+| [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 <!---LeetCode Topics End-->
