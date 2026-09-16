@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1552-magnetic-force-between-two-balls](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/1552-magnetic-force-between-two-balls) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
+| [1829-maximum-xor-for-each-query](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/1829-maximum-xor-for-each-query) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [1898-maximum-number-of-removable-characters](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/1898-maximum-number-of-removable-characters) |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0238-product-of-array-except-self) |
 | [1310-xor-queries-of-a-subarray](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/1310-xor-queries-of-a-subarray) |
+| [1829-maximum-xor-for-each-query](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/1829-maximum-xor-for-each-query) |
 ## Queue
 |  |
 | ------- |
@@ -348,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0338-counting-bits) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [1310-xor-queries-of-a-subarray](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/1310-xor-queries-of-a-subarray) |
+| [1829-maximum-xor-for-each-query](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/1829-maximum-xor-for-each-query) |
 | [2425-bitwise-xor-of-all-pairings](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/2425-bitwise-xor-of-all-pairings) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 <!---LeetCode Topics End-->
