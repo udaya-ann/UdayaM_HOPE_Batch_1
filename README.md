@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2418-sort-the-people](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/2418-sort-the-people) |
+| [2425-bitwise-xor-of-all-pairings](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/2425-bitwise-xor-of-all-pairings) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
@@ -267,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0319-bulb-switcher](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0319-bulb-switcher) |
+| [2425-bitwise-xor-of-all-pairings](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/2425-bitwise-xor-of-all-pairings) |
 ## Trie
 |  |
 | ------- |
@@ -342,5 +344,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0191-number-of-1-bits) |
 | [0338-counting-bits](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0338-counting-bits) |
 | [1310-xor-queries-of-a-subarray](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/1310-xor-queries-of-a-subarray) |
+| [2425-bitwise-xor-of-all-pairings](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/2425-bitwise-xor-of-all-pairings) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 <!---LeetCode Topics End-->
