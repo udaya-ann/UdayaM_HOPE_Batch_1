@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2425-bitwise-xor-of-all-pairings](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/2425-bitwise-xor-of-all-pairings) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/2491-divide-players-into-teams-of-equal-skill) |
+| [2683-neighboring-bitwise-xor](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/2683-neighboring-bitwise-xor) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 ## Binary Search
 |  |
@@ -352,5 +353,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1310-xor-queries-of-a-subarray](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/1310-xor-queries-of-a-subarray) |
 | [1829-maximum-xor-for-each-query](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/1829-maximum-xor-for-each-query) |
 | [2425-bitwise-xor-of-all-pairings](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/2425-bitwise-xor-of-all-pairings) |
+| [2683-neighboring-bitwise-xor](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/2683-neighboring-bitwise-xor) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 <!---LeetCode Topics End-->
