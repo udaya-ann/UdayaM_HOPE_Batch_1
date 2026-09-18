@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0009-palindrome-number) |
+| [0050-powx-n](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0070-climbing-stairs) |
@@ -395,4 +396,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0187-repeated-dna-sequences) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
