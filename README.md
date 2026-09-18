@@ -189,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0263-ugly-number) |
 | [0319-bulb-switcher](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0319-bulb-switcher) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0668-kth-smallest-number-in-multiplication-table) |
+| [1137-n-th-tribonacci-number](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/1137-n-th-tribonacci-number) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1518-water-bottles](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/1518-water-bottles) |
 | [2600-k-items-with-the-maximum-sum](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/2600-k-items-with-the-maximum-sum) |
@@ -260,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0338-counting-bits](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0338-counting-bits) |
 | [0746-min-cost-climbing-stairs](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0746-min-cost-climbing-stairs) |
+| [1137-n-th-tribonacci-number](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/1137-n-th-tribonacci-number) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -280,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0070-climbing-stairs) |
+| [1137-n-th-tribonacci-number](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/1137-n-th-tribonacci-number) |
 ## Brainteaser
 |  |
 | ------- |
