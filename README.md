@@ -192,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0319-bulb-switcher](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0319-bulb-switcher) |
 | [0326-power-of-three](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0326-power-of-three) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0668-kth-smallest-number-in-multiplication-table) |
+| [0779-k-th-symbol-in-grammar](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0779-k-th-symbol-in-grammar) |
 | [1137-n-th-tribonacci-number](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/1137-n-th-tribonacci-number) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1518-water-bottles](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/1518-water-bottles) |
@@ -374,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0318-maximum-product-of-word-lengths](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0318-maximum-product-of-word-lengths) |
 | [0338-counting-bits](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0338-counting-bits) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [0779-k-th-symbol-in-grammar](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0779-k-th-symbol-in-grammar) |
 | [1310-xor-queries-of-a-subarray](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/1310-xor-queries-of-a-subarray) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1829-maximum-xor-for-each-query](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/1829-maximum-xor-for-each-query) |
@@ -406,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0050-powx-n) |
 | [0326-power-of-three](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0326-power-of-three) |
+| [0779-k-th-symbol-in-grammar](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0779-k-th-symbol-in-grammar) |
 ## Quickselect
 |  |
 | ------- |
