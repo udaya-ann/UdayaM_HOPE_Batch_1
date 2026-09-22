@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0151-reverse-words-in-a-string) |
 | [0171-excel-sheet-column-number](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0171-excel-sheet-column-number) |
 | [0187-repeated-dna-sequences](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0187-repeated-dna-sequences) |
+| [0241-different-ways-to-add-parentheses](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0241-different-ways-to-add-parentheses) |
 | [0242-valid-anagram](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0242-valid-anagram) |
 | [0318-maximum-product-of-word-lengths](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0318-maximum-product-of-word-lengths) |
 | [0345-reverse-vowels-of-a-string](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0345-reverse-vowels-of-a-string) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0070-climbing-stairs) |
 | [0171-excel-sheet-column-number](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0189-rotate-array) |
+| [0241-different-ways-to-add-parentheses](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0241-different-ways-to-add-parentheses) |
 | [0263-ugly-number](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0263-ugly-number) |
 | [0319-bulb-switcher](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0319-bulb-switcher) |
 | [0326-power-of-three](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0326-power-of-three) |
@@ -266,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0241-different-ways-to-add-parentheses](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0241-different-ways-to-add-parentheses) |
 | [0338-counting-bits](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0338-counting-bits) |
 | [0746-min-cost-climbing-stairs](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0746-min-cost-climbing-stairs) |
 | [1137-n-th-tribonacci-number](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/1137-n-th-tribonacci-number) |
@@ -290,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0070-climbing-stairs) |
+| [0241-different-ways-to-add-parentheses](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0241-different-ways-to-add-parentheses) |
 | [1137-n-th-tribonacci-number](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/1137-n-th-tribonacci-number) |
 ## Brainteaser
 |  |
@@ -409,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0050-powx-n) |
+| [0241-different-ways-to-add-parentheses](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0241-different-ways-to-add-parentheses) |
 | [0326-power-of-three](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0326-power-of-three) |
 | [0779-k-th-symbol-in-grammar](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0779-k-th-symbol-in-grammar) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/1545-find-kth-bit-in-nth-binary-string) |
@@ -416,4 +421,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0215-kth-largest-element-in-an-array) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0241-different-ways-to-add-parentheses) |
 <!---LeetCode Topics End-->
