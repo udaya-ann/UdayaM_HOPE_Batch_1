@@ -1,39 +1,22 @@
 class Solution {
     public List<List<Integer>> combinationSum(int[] candidates, int target) {
-        List<List<Integer>> ans = new ArrayList<>();
-        Queue<List<Integer>> q = new LinkedList<>();
-
-        q.add(new ArrayList<>());
-
-        while (!q.isEmpty()) {
-            List<Integer> list = q.poll();
-
-            int sum = 0;
-            int start = 0;
-
-            for (int x : list) {
-                sum += x;
-            }
-
-            if (sum == target) {
-                ans.add(list);
-                continue;
-            }
-
-            for (int i = 0; i < candidates.length; i++) {
-
-                if (list.size() > 0 && candidates[i] < list.get(list.size() - 1)) {
-                    continue;
-                }
-
-                if (sum + candidates[i] <= target) {
-                    List<Integer> temp = new ArrayList<>(list);
-                    temp.add(candidates[i]);
-                    q.add(temp);
-                }
-            }
+        List<List<Integer>> result = new ArrayList<>();
+        Arrays.sort(candidates);
+        backtrack(candidates,target,0,new ArrayList<>(),result);
+        return result;
+    }
+    private void backtrack(int[] c,int t, int s,List<Integer> curr, List<List<Integer>> result ){
+        if(t==0){
+            result.add(new ArrayList<>(curr));
+            return;
         }
-
-        return ans;
+        for(int i=s;i<c.length;i++){
+            if(c[i]>t){
+                return;
+            }
+            curr.add(c[i]);
+            backtrack(c,t-c[i],i,curr,result);
+            curr.remove(curr.size()-1);
+        }
     }
 }
