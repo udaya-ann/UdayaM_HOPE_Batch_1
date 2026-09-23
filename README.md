@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0443-string-compression) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0657-robot-return-to-origin](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0657-robot-return-to-origin) |
+| [0784-letter-case-permutation](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0784-letter-case-permutation) |
 | [1108-defanging-an-ip-address](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/1108-defanging-an-ip-address) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/1545-find-kth-bit-in-nth-binary-string) |
@@ -391,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0338-counting-bits) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0779-k-th-symbol-in-grammar](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0779-k-th-symbol-in-grammar) |
+| [0784-letter-case-permutation](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0784-letter-case-permutation) |
 | [1310-xor-queries-of-a-subarray](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/1310-xor-queries-of-a-subarray) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1829-maximum-xor-for-each-query](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/1829-maximum-xor-for-each-query) |
@@ -403,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0090-subsets-ii) |
+| [0784-letter-case-permutation](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0784-letter-case-permutation) |
 ## Rolling Hash
 |  |
 | ------- |
