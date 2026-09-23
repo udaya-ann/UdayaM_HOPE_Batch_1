@@ -412,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0040-combination-sum-ii) |
 | [0047-permutations-ii](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0047-permutations-ii) |
+| [0052-n-queens-ii](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0052-n-queens-ii) |
 | [0078-subsets](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0216-combination-sum-iii) |
@@ -461,4 +462,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0654-maximum-binary-tree](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0654-maximum-binary-tree) |
+## Algorithm X
+|  |
+| ------- |
+| [0052-n-queens-ii](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0052-n-queens-ii) |
 <!---LeetCode Topics End-->
