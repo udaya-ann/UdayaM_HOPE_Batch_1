@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0187-repeated-dna-sequences) |
 | [0241-different-ways-to-add-parentheses](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0241-different-ways-to-add-parentheses) |
 | [0242-valid-anagram](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0242-valid-anagram) |
+| [0282-expression-add-operators](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0282-expression-add-operators) |
 | [0301-remove-invalid-parentheses](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0301-remove-invalid-parentheses) |
 | [0318-maximum-product-of-word-lengths](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0318-maximum-product-of-word-lengths) |
 | [0345-reverse-vowels-of-a-string](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0345-reverse-vowels-of-a-string) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0189-rotate-array) |
 | [0241-different-ways-to-add-parentheses](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0241-different-ways-to-add-parentheses) |
 | [0263-ugly-number](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0263-ugly-number) |
+| [0282-expression-add-operators](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0282-expression-add-operators) |
 | [0319-bulb-switcher](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0319-bulb-switcher) |
 | [0326-power-of-three](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0326-power-of-three) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0668-kth-smallest-number-in-multiplication-table) |
@@ -427,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0216-combination-sum-iii) |
+| [0282-expression-add-operators](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0282-expression-add-operators) |
 | [0301-remove-invalid-parentheses](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0301-remove-invalid-parentheses) |
 | [0491-non-decreasing-subsequences](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0491-non-decreasing-subsequences) |
 | [0784-letter-case-permutation](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0784-letter-case-permutation) |
