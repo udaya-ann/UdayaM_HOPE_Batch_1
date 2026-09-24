@@ -2,25 +2,21 @@ import java.util.*;
 
 class Solution {
 
-    Map<Integer, List<String>> map = new HashMap<>();
-    Set<String> set;
-
     public List<String> wordBreak(String s, List<String> wordDict) {
-        set = new HashSet<>(wordDict);
-        return solve(s, 0);
+        List<String> ans = new ArrayList<>();
+        Set<String> set = new HashSet<>(wordDict);
+
+        backtrack(s, 0, set, new ArrayList<>(), ans);
+
+        return ans;
     }
 
-    public List<String> solve(String s, int index) {
-
-        if (map.containsKey(index)) {
-            return map.get(index);
-        }
-
-        List<String> ans = new ArrayList<>();
+    public void backtrack(String s, int index, Set<String> set,
+                           List<String> path, List<String> ans) {
 
         if (index == s.length()) {
-            ans.add("");
-            return ans;
+            ans.add(String.join(" ", path));
+            return;
         }
 
         for (int i = index + 1; i <= s.length(); i++) {
@@ -29,21 +25,12 @@ class Solution {
 
             if (set.contains(word)) {
 
-                List<String> rest = solve(s, i);
+                path.add(word);
 
-                for (String r : rest) {
+                backtrack(s, i, set, path, ans);
 
-                    if (r.equals("")) {
-                        ans.add(word);
-                    } else {
-                        ans.add(word + " " + r);
-                    }
-                }
+                path.remove(path.size() - 1);
             }
         }
-
-        map.put(index, ans);
-
-        return ans;
     }
 }
