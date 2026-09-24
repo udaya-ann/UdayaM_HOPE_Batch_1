@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0657-robot-return-to-origin](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0657-robot-return-to-origin) |
 | [0784-letter-case-permutation](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0784-letter-case-permutation) |
+| [0842-split-array-into-fibonacci-sequence](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0842-split-array-into-fibonacci-sequence) |
 | [1108-defanging-an-ip-address](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/1108-defanging-an-ip-address) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/1545-find-kth-bit-in-nth-binary-string) |
@@ -440,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0301-remove-invalid-parentheses](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0301-remove-invalid-parentheses) |
 | [0491-non-decreasing-subsequences](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0491-non-decreasing-subsequences) |
 | [0784-letter-case-permutation](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0784-letter-case-permutation) |
+| [0842-split-array-into-fibonacci-sequence](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0842-split-array-into-fibonacci-sequence) |
 | [0980-unique-paths-iii](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0980-unique-paths-iii) |
 | [1718-construct-the-lexicographically-largest-valid-sequence](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/1718-construct-the-lexicographically-largest-valid-sequence) |
 ## Rolling Hash
