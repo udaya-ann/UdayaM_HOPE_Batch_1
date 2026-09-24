@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0125-valid-palindrome) |
+| [0140-word-break-ii](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0140-word-break-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0151-reverse-words-in-a-string) |
 | [0171-excel-sheet-column-number](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0171-excel-sheet-column-number) |
 | [0187-repeated-dna-sequences](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0187-repeated-dna-sequences) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0134-gas-station) |
 | [0137-single-number-ii](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0137-single-number-ii) |
+| [0140-word-break-ii](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0140-word-break-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0162-find-peak-element) |
@@ -223,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0049-group-anagrams) |
+| [0140-word-break-ii](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0140-word-break-ii) |
 | [0187-repeated-dna-sequences](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0187-repeated-dna-sequences) |
 | [0217-contains-duplicate](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0219-contains-duplicate-ii) |
@@ -291,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0140-word-break-ii](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0140-word-break-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0241-different-ways-to-add-parentheses) |
 | [0338-counting-bits](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0338-counting-bits) |
 | [0746-min-cost-climbing-stairs](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0746-min-cost-climbing-stairs) |
@@ -316,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0070-climbing-stairs) |
+| [0140-word-break-ii](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0140-word-break-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0241-different-ways-to-add-parentheses) |
 | [1137-n-th-tribonacci-number](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/1137-n-th-tribonacci-number) |
 ## Brainteaser
@@ -326,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0140-word-break-ii](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0140-word-break-ii) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/2452-words-within-two-edits-of-dictionary) |
 ## Combinatorics
@@ -428,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0052-n-queens-ii](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0052-n-queens-ii) |
 | [0078-subsets](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0090-subsets-ii) |
+| [0140-word-break-ii](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0140-word-break-ii) |
 | [0216-combination-sum-iii](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0216-combination-sum-iii) |
 | [0282-expression-add-operators](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0282-expression-add-operators) |
 | [0301-remove-invalid-parentheses](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0301-remove-invalid-parentheses) |
