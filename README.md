@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0443-string-compression](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0443-string-compression) |
+| [0455-assign-cookies](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0455-assign-cookies) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0786-k-th-smallest-prime-fraction) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0134-gas-station) |
+| [0455-assign-cookies](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0455-assign-cookies) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/1221-split-a-string-in-balanced-strings) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/2410-maximum-matching-of-players-with-trainers) |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [0455-assign-cookies](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0455-assign-cookies) |
 | [0491-non-decreasing-subsequences](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0491-non-decreasing-subsequences) |
 | [0540-single-element-in-a-sorted-array](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0540-single-element-in-a-sorted-array) |
 | [0654-maximum-binary-tree](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0654-maximum-binary-tree) |
@@ -258,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0455-assign-cookies](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0455-assign-cookies) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0977-squares-of-a-sorted-array](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0977-squares-of-a-sorted-array) |
@@ -385,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Quicksort
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0455-assign-cookies) |
 | [1122-relative-sort-array](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/1122-relative-sort-array) |
 ## Bubble Sort
 |  |
