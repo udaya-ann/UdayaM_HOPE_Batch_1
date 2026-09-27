@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0134-gas-station) |
 | [0455-assign-cookies](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0455-assign-cookies) |
+| [0860-lemonade-change](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0860-lemonade-change) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/1221-split-a-string-in-balanced-strings) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/2410-maximum-matching-of-players-with-trainers) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0746-min-cost-climbing-stairs) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0860-lemonade-change](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0875-koko-eating-bananas) |
 | [0977-squares-of-a-sorted-array](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0977-squares-of-a-sorted-array) |
 | [0980-unique-paths-iii](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0980-unique-paths-iii) |
