@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0455-assign-cookies) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0763-partition-labels](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0763-partition-labels) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0977-squares-of-a-sorted-array](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0977-squares-of-a-sorted-array) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/1855-maximum-distance-between-a-pair-of-values) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0443-string-compression) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0657-robot-return-to-origin](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0657-robot-return-to-origin) |
+| [0763-partition-labels](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0763-partition-labels) |
 | [0784-letter-case-permutation](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0784-letter-case-permutation) |
 | [0842-split-array-into-fibonacci-sequence](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0842-split-array-into-fibonacci-sequence) |
 | [1108-defanging-an-ip-address](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/1108-defanging-an-ip-address) |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0605-can-place-flowers) |
+| [0763-partition-labels](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0763-partition-labels) |
 | [0860-lemonade-change](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0860-lemonade-change) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/1221-split-a-string-in-balanced-strings) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/2078-two-furthest-houses-with-different-colors) |
@@ -250,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0491-non-decreasing-subsequences](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0491-non-decreasing-subsequences) |
+| [0763-partition-labels](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0763-partition-labels) |
 | [1122-relative-sort-array](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/1122-relative-sort-array) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/1636-sort-array-by-increasing-frequency) |
