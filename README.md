@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0125-valid-palindrome) |
+| [0132-palindrome-partitioning-ii](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0132-palindrome-partitioning-ii) |
 | [0140-word-break-ii](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0140-word-break-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0151-reverse-words-in-a-string) |
 | [0171-excel-sheet-column-number](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0171-excel-sheet-column-number) |
@@ -325,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0132-palindrome-partitioning-ii](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0132-palindrome-partitioning-ii) |
 | [0140-word-break-ii](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0140-word-break-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0241-different-ways-to-add-parentheses) |
 | [0338-counting-bits](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0338-counting-bits) |
