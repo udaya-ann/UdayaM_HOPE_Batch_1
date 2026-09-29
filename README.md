@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0605-can-place-flowers) |
+| [0738-monotone-increasing-digits](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0738-monotone-increasing-digits) |
 | [0763-partition-labels](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0763-partition-labels) |
 | [0860-lemonade-change](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0860-lemonade-change) |
 | [1024-video-stitching](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/1024-video-stitching) |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0319-bulb-switcher](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0319-bulb-switcher) |
 | [0326-power-of-three](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0326-power-of-three) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0668-kth-smallest-number-in-multiplication-table) |
+| [0738-monotone-increasing-digits](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0738-monotone-increasing-digits) |
 | [0779-k-th-symbol-in-grammar](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0779-k-th-symbol-in-grammar) |
 | [1137-n-th-tribonacci-number](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/1137-n-th-tribonacci-number) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
