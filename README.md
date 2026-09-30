@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0455-assign-cookies) |
+| [0502-ipo](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0502-ipo) |
 | [0605-can-place-flowers](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0605-can-place-flowers) |
 | [0630-course-schedule-iii](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0630-course-schedule-iii) |
 | [0738-monotone-increasing-digits](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0738-monotone-increasing-digits) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0455-assign-cookies) |
 | [0491-non-decreasing-subsequences](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0491-non-decreasing-subsequences) |
+| [0502-ipo](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0502-ipo) |
 | [0540-single-element-in-a-sorted-array](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0540-single-element-in-a-sorted-array) |
 | [0605-can-place-flowers](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0605-can-place-flowers) |
 | [0630-course-schedule-iii](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0630-course-schedule-iii) |
@@ -303,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0455-assign-cookies) |
+| [0502-ipo](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0502-ipo) |
 | [0630-course-schedule-iii](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0630-course-schedule-iii) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0786-k-th-smallest-prime-fraction) |
@@ -438,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0215-kth-largest-element-in-an-array) |
 | [0218-the-skyline-problem](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0218-the-skyline-problem) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0502-ipo](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0502-ipo) |
 | [0630-course-schedule-iii](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0630-course-schedule-iii) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0787-cheapest-flights-within-k-stops) |
