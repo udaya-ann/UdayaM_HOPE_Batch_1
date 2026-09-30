@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0842-split-array-into-fibonacci-sequence](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0842-split-array-into-fibonacci-sequence) |
 | [1108-defanging-an-ip-address](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/1108-defanging-an-ip-address) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/1221-split-a-string-in-balanced-strings) |
+| [1255-maximum-score-words-formed-by-letters](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1898-maximum-number-of-removable-characters](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/1898-maximum-number-of-removable-characters) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0387-first-unique-character-in-a-string) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/1221-split-a-string-in-balanced-strings) |
+| [1255-maximum-score-words-formed-by-letters](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/1255-maximum-score-words-formed-by-letters) |
 ## Array
 |  |
 | ------- |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1051-height-checker](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/1051-height-checker) |
 | [1095-find-in-mountain-array](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/1095-find-in-mountain-array) |
 | [1122-relative-sort-array](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/1122-relative-sort-array) |
+| [1255-maximum-score-words-formed-by-letters](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1310-xor-queries-of-a-subarray](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/1310-xor-queries-of-a-subarray) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
@@ -266,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0491-non-decreasing-subsequences](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0491-non-decreasing-subsequences) |
 | [0763-partition-labels](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0763-partition-labels) |
 | [1122-relative-sort-array](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/1122-relative-sort-array) |
+| [1255-maximum-score-words-formed-by-letters](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2418-sort-the-people](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/2418-sort-the-people) |
@@ -340,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0983-minimum-cost-for-tickets](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0983-minimum-cost-for-tickets) |
 | [1024-video-stitching](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/1024-video-stitching) |
 | [1137-n-th-tribonacci-number](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/1137-n-th-tribonacci-number) |
+| [1255-maximum-score-words-formed-by-letters](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [2320-count-number-of-ways-to-place-houses](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/2320-count-number-of-ways-to-place-houses) |
 ## Prefix Sum
 |  |
@@ -463,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0779-k-th-symbol-in-grammar](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0779-k-th-symbol-in-grammar) |
 | [0784-letter-case-permutation](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0784-letter-case-permutation) |
 | [0980-unique-paths-iii](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0980-unique-paths-iii) |
+| [1255-maximum-score-words-formed-by-letters](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1310-xor-queries-of-a-subarray](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/1310-xor-queries-of-a-subarray) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1829-maximum-xor-for-each-query](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/1829-maximum-xor-for-each-query) |
@@ -488,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0784-letter-case-permutation](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0784-letter-case-permutation) |
 | [0842-split-array-into-fibonacci-sequence](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0842-split-array-into-fibonacci-sequence) |
 | [0980-unique-paths-iii](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0980-unique-paths-iii) |
+| [1255-maximum-score-words-formed-by-letters](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1718-construct-the-lexicographically-largest-valid-sequence](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/1718-construct-the-lexicographically-largest-valid-sequence) |
 ## Rolling Hash
 |  |
@@ -559,4 +566,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0787-cheapest-flights-within-k-stops](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0787-cheapest-flights-within-k-stops) |
+## Bitmask
+|  |
+| ------- |
+| [1255-maximum-score-words-formed-by-letters](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/1255-maximum-score-words-formed-by-letters) |
 <!---LeetCode Topics End-->
