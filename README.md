@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0189-rotate-array) |
+| [0198-house-robber](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0217-contains-duplicate) |
@@ -329,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0132-palindrome-partitioning-ii](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0132-palindrome-partitioning-ii) |
 | [0140-word-break-ii](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0140-word-break-ii) |
+| [0198-house-robber](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0198-house-robber) |
 | [0241-different-ways-to-add-parentheses](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0241-different-ways-to-add-parentheses) |
 | [0338-counting-bits](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0338-counting-bits) |
 | [0368-largest-divisible-subset](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0368-largest-divisible-subset) |
