@@ -184,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1898-maximum-number-of-removable-characters](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/1898-maximum-number-of-removable-characters) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2151-maximum-good-people-based-on-statements](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/2151-maximum-good-people-based-on-statements) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2418-sort-the-people](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/2418-sort-the-people) |
 | [2425-bitwise-xor-of-all-pairings](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/2425-bitwise-xor-of-all-pairings) |
@@ -472,6 +473,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1310-xor-queries-of-a-subarray](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/1310-xor-queries-of-a-subarray) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1829-maximum-xor-for-each-query](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/1829-maximum-xor-for-each-query) |
+| [2151-maximum-good-people-based-on-statements](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/2151-maximum-good-people-based-on-statements) |
 | [2425-bitwise-xor-of-all-pairings](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/2425-bitwise-xor-of-all-pairings) |
 | [2683-neighboring-bitwise-xor](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/2683-neighboring-bitwise-xor) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
@@ -496,6 +498,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0980-unique-paths-iii](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0980-unique-paths-iii) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1718-construct-the-lexicographically-largest-valid-sequence](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/1718-construct-the-lexicographically-largest-valid-sequence) |
+| [2151-maximum-good-people-based-on-statements](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/2151-maximum-good-people-based-on-statements) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -570,4 +573,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/1255-maximum-score-words-formed-by-letters) |
+## Enumeration
+|  |
+| ------- |
+| [2151-maximum-good-people-based-on-statements](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/2151-maximum-good-people-based-on-statements) |
 <!---LeetCode Topics End-->
