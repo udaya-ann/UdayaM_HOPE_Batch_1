@@ -340,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0983-minimum-cost-for-tickets](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0983-minimum-cost-for-tickets) |
 | [1024-video-stitching](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/1024-video-stitching) |
 | [1137-n-th-tribonacci-number](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/1137-n-th-tribonacci-number) |
+| [2320-count-number-of-ways-to-place-houses](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/2320-count-number-of-ways-to-place-houses) |
 ## Prefix Sum
 |  |
 | ------- |
