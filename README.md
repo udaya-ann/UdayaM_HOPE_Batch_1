@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0217-contains-duplicate) |
+| [0218-the-skyline-problem](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0218-the-skyline-problem) |
 | [0219-contains-duplicate-ii](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0240-search-a-2d-matrix-ii) |
@@ -286,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0217-contains-duplicate) |
+| [0218-the-skyline-problem](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0218-the-skyline-problem) |
 | [0242-valid-anagram](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -320,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0215-kth-largest-element-in-an-array) |
+| [0218-the-skyline-problem](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0218-the-skyline-problem) |
 | [0240-search-a-2d-matrix-ii](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0240-search-a-2d-matrix-ii) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0654-maximum-binary-tree](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0654-maximum-binary-tree) |
@@ -424,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0215-kth-largest-element-in-an-array) |
+| [0218-the-skyline-problem](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0218-the-skyline-problem) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -584,4 +588,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2151-maximum-good-people-based-on-statements](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/2151-maximum-good-people-based-on-statements) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0218-the-skyline-problem) |
+## Segment Tree
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0218-the-skyline-problem) |
+## Sweep Line
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0218-the-skyline-problem) |
+## Ordered Set
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0218-the-skyline-problem) |
 <!---LeetCode Topics End-->
