@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0738-monotone-increasing-digits](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0738-monotone-increasing-digits) |
 | [0763-partition-labels](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0763-partition-labels) |
 | [0860-lemonade-change](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0860-lemonade-change) |
+| [1005-maximize-sum-of-array-after-k-negations](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1024-video-stitching](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/1024-video-stitching) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/1221-split-a-string-in-balanced-strings) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/2078-two-furthest-houses-with-different-colors) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0977-squares-of-a-sorted-array) |
 | [0980-unique-paths-iii](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0980-unique-paths-iii) |
 | [0983-minimum-cost-for-tickets](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0983-minimum-cost-for-tickets) |
+| [1005-maximize-sum-of-array-after-k-negations](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1024-video-stitching](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/1024-video-stitching) |
 | [1051-height-checker](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/1051-height-checker) |
@@ -302,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0719-find-k-th-smallest-pair-distance](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0977-squares-of-a-sorted-array](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0977-squares-of-a-sorted-array) |
+| [1005-maximize-sum-of-array-after-k-negations](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1051-height-checker](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/1122-relative-sort-array) |
 | [1552-magnetic-force-between-two-balls](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/1552-magnetic-force-between-two-balls) |
