@@ -252,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0189-rotate-array) |
 | [0241-different-ways-to-add-parentheses](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0241-different-ways-to-add-parentheses) |
 | [0263-ugly-number](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0263-ugly-number) |
+| [0279-perfect-squares](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0279-perfect-squares) |
 | [0282-expression-add-operators](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0282-expression-add-operators) |
 | [0319-bulb-switcher](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0319-bulb-switcher) |
 | [0326-power-of-three](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0326-power-of-three) |
@@ -363,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0198-house-robber) |
 | [0241-different-ways-to-add-parentheses](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0241-different-ways-to-add-parentheses) |
+| [0279-perfect-squares](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0279-perfect-squares) |
 | [0338-counting-bits](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0338-counting-bits) |
 | [0368-largest-divisible-subset](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0368-largest-divisible-subset) |
 | [0435-non-overlapping-intervals](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0435-non-overlapping-intervals) |
@@ -594,6 +596,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0279-perfect-squares](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0279-perfect-squares) |
 | [0301-remove-invalid-parentheses](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0301-remove-invalid-parentheses) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Depth-First Search
@@ -636,4 +639,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0139-word-break) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0279-perfect-squares) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0279-perfect-squares) |
 <!---LeetCode Topics End-->
