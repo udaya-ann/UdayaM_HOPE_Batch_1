@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0784-letter-case-permutation](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0784-letter-case-permutation) |
 | [0842-split-array-into-fibonacci-sequence](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0842-split-array-into-fibonacci-sequence) |
 | [1108-defanging-an-ip-address](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/1108-defanging-an-ip-address) |
+| [1143-longest-common-subsequence](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/1143-longest-common-subsequence) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1307-verbal-arithmetic-puzzle](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/1307-verbal-arithmetic-puzzle) |
@@ -390,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1024-video-stitching](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/1024-video-stitching) |
 | [1049-last-stone-weight-ii](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/1049-last-stone-weight-ii) |
 | [1137-n-th-tribonacci-number](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/1137-n-th-tribonacci-number) |
+| [1143-longest-common-subsequence](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/1143-longest-common-subsequence) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/1289-minimum-falling-path-sum-ii) |
 | [2320-count-number-of-ways-to-place-houses](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/2320-count-number-of-ways-to-place-houses) |
@@ -673,4 +675,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1049-last-stone-weight-ii](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/1049-last-stone-weight-ii) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
