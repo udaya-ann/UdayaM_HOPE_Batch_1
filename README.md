@@ -187,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0875-koko-eating-bananas) |
 | [0879-profitable-schemes](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0879-profitable-schemes) |
 | [0931-minimum-falling-path-sum](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0931-minimum-falling-path-sum) |
+| [0956-tallest-billboard](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0956-tallest-billboard) |
 | [0977-squares-of-a-sorted-array](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0977-squares-of-a-sorted-array) |
 | [0980-unique-paths-iii](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0980-unique-paths-iii) |
 | [0983-minimum-cost-for-tickets](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0983-minimum-cost-for-tickets) |
@@ -401,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0879-profitable-schemes](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0879-profitable-schemes) |
 | [0894-all-possible-full-binary-trees](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0894-all-possible-full-binary-trees) |
 | [0931-minimum-falling-path-sum](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0931-minimum-falling-path-sum) |
+| [0956-tallest-billboard](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0956-tallest-billboard) |
 | [0983-minimum-cost-for-tickets](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0983-minimum-cost-for-tickets) |
 | [1024-video-stitching](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/1024-video-stitching) |
 | [1049-last-stone-weight-ii](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/1049-last-stone-weight-ii) |
@@ -683,6 +685,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0279-perfect-squares](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0279-perfect-squares) |
 | [0879-profitable-schemes](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0879-profitable-schemes) |
+| [0956-tallest-billboard](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0956-tallest-billboard) |
 | [1049-last-stone-weight-ii](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/1049-last-stone-weight-ii) |
 | [1449-form-largest-integer-with-digits-that-add-up-to-target](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/1449-form-largest-integer-with-digits-that-add-up-to-target) |
 ## Complete Knapsack
@@ -694,6 +697,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0879-profitable-schemes](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0879-profitable-schemes) |
+| [0956-tallest-billboard](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0956-tallest-billboard) |
 | [1049-last-stone-weight-ii](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/1049-last-stone-weight-ii) |
 ## Longest Common Subsequence
 |  |
@@ -702,4 +706,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1092-shortest-common-supersequence](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/1143-longest-common-subsequence) |
+## Meet in the Middle
+|  |
+| ------- |
+| [0956-tallest-billboard](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0956-tallest-billboard) |
 <!---LeetCode Topics End-->
