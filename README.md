@@ -203,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1307-verbal-arithmetic-puzzle](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/1307-verbal-arithmetic-puzzle) |
 | [1310-xor-queries-of-a-subarray](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/1310-xor-queries-of-a-subarray) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
+| [1449-form-largest-integer-with-digits-that-add-up-to-target](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/1449-form-largest-integer-with-digits-that-add-up-to-target) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1552-magnetic-force-between-two-balls](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/1552-magnetic-force-between-two-balls) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/1636-sort-array-by-increasing-frequency) |
@@ -408,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1143-longest-common-subsequence](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/1143-longest-common-subsequence) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/1289-minimum-falling-path-sum-ii) |
+| [1449-form-largest-integer-with-digits-that-add-up-to-target](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/1449-form-largest-integer-with-digits-that-add-up-to-target) |
 | [2320-count-number-of-ways-to-place-houses](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/2320-count-number-of-ways-to-place-houses) |
 ## Prefix Sum
 |  |
@@ -682,10 +684,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0279-perfect-squares) |
 | [0879-profitable-schemes](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0879-profitable-schemes) |
 | [1049-last-stone-weight-ii](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/1049-last-stone-weight-ii) |
+| [1449-form-largest-integer-with-digits-that-add-up-to-target](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/1449-form-largest-integer-with-digits-that-add-up-to-target) |
 ## Complete Knapsack
 |  |
 | ------- |
 | [0279-perfect-squares](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0279-perfect-squares) |
+| [1449-form-largest-integer-with-digits-that-add-up-to-target](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/1449-form-largest-integer-with-digits-that-add-up-to-target) |
 ## 0-1 Knapsack
 |  |
 | ------- |
