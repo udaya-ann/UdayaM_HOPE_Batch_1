@@ -223,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2452-words-within-two-edits-of-dictionary](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2683-neighboring-bitwise-xor](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/2683-neighboring-bitwise-xor) |
+| [2742-painting-the-walls](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/2742-painting-the-walls) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 ## Binary Search
 |  |
@@ -413,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1289-minimum-falling-path-sum-ii](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1449-form-largest-integer-with-digits-that-add-up-to-target](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/1449-form-largest-integer-with-digits-that-add-up-to-target) |
 | [2320-count-number-of-ways-to-place-houses](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/2320-count-number-of-ways-to-place-houses) |
+| [2742-painting-the-walls](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/2742-painting-the-walls) |
 ## Prefix Sum
 |  |
 | ------- |
