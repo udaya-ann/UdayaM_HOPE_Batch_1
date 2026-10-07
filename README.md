@@ -185,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0860-lemonade-change](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0875-koko-eating-bananas) |
+| [0879-profitable-schemes](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0879-profitable-schemes) |
 | [0931-minimum-falling-path-sum](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0931-minimum-falling-path-sum) |
 | [0977-squares-of-a-sorted-array](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0977-squares-of-a-sorted-array) |
 | [0980-unique-paths-iii](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0980-unique-paths-iii) |
@@ -396,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0740-delete-and-earn](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0746-min-cost-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0879-profitable-schemes](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0879-profitable-schemes) |
 | [0894-all-possible-full-binary-trees](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0894-all-possible-full-binary-trees) |
 | [0931-minimum-falling-path-sum](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0931-minimum-falling-path-sum) |
 | [0983-minimum-cost-for-tickets](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0983-minimum-cost-for-tickets) |
@@ -678,6 +680,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0279-perfect-squares](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0279-perfect-squares) |
+| [0879-profitable-schemes](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0879-profitable-schemes) |
 | [1049-last-stone-weight-ii](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/1049-last-stone-weight-ii) |
 ## Complete Knapsack
 |  |
@@ -686,6 +689,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## 0-1 Knapsack
 |  |
 | ------- |
+| [0879-profitable-schemes](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0879-profitable-schemes) |
 | [1049-last-stone-weight-ii](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/1049-last-stone-weight-ii) |
 ## Longest Common Subsequence
 |  |
