@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0283-move-zeroes) |
+| [0300-longest-increasing-subsequence](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0300-longest-increasing-subsequence) |
 | [0318-maximum-product-of-word-lengths](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0318-maximum-product-of-word-lengths) |
 | [0349-intersection-of-two-arrays](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0240-search-a-2d-matrix-ii](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0240-search-a-2d-matrix-ii) |
 | [0278-first-bad-version](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0278-first-bad-version) |
+| [0300-longest-increasing-subsequence](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0300-longest-increasing-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0374-guess-number-higher-or-lower](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0374-guess-number-higher-or-lower) |
@@ -392,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0221-maximal-square](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0221-maximal-square) |
 | [0241-different-ways-to-add-parentheses](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0241-different-ways-to-add-parentheses) |
 | [0279-perfect-squares](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0279-perfect-squares) |
+| [0300-longest-increasing-subsequence](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0300-longest-increasing-subsequence) |
 | [0338-counting-bits](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0338-counting-bits) |
 | [0368-largest-divisible-subset](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0368-largest-divisible-subset) |
 | [0377-combination-sum-iv](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0377-combination-sum-iv) |
@@ -714,4 +717,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0956-tallest-billboard](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0956-tallest-billboard) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/udaya-ann/UdayaM_HOPE_Batch_1/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
